@@ -1,2 +1,3 @@
+ Setting1: coming from git
  connectionStrings:
    MyDB: Data Source=prodserver;Initial Catalog=mydb;User ID=xxxx;Password=xxxx
