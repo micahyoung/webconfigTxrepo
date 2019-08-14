@@ -1,2 +1,2 @@
  connectionStrings:
-   MyDB: "Data Source=prodserver;Initial Catalog=mydb;User ID=xxxx;Password=xxxx"
+   MyDB: Data Source=prodserver;Initial Catalog=mydb;User ID=xxxx;Password=xxxx
