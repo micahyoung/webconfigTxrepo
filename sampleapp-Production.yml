@@ -1,1 +1,2 @@
-    "connectionStrings:MyDB": "Data Source=B;Initial Catalog=MyReleaseDB;User ID=xxxx;Password=xxxx"
+ connectionStrings:
+   MyDB: "Data Source=prodserver;Initial Catalog=mydb;User ID=xxxx;Password=xxxx"
